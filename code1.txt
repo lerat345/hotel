@@ -1,0 +1,77 @@
+<div class="container text-center ">
+            <br></br><br></br>
+  <div class="row g-2">
+    <div class="col-12"> 
+      <div class="p-3 border bg-light" className="text1">Grilled Beef with potatoes $20.00  </div>
+      <img src={food2} className='food1'></img>
+      </div>
+      
+      
+      <div class="row g-2">
+    <div class="col-12">
+      <div class="p-3 border bg-light" className="text2">Grilled Beef with potatoes $20.00</div>
+      <img src={food3} className='food5'></img>
+    </div>  
+
+    <div class="row g-2">
+    <div class="col-12">
+      <div class="p-3 border bg-light" className="text3">Grilled Beef with potatoes $20.00</div> 
+      <img src={food4} className='food6'></img>
+
+
+    </div>
+    
+
+    
+
+
+  </div>
+  
+  </div>
+  </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <div class="container text-center ">
+  <div class="row g-2">
+    <div class="col-12">
+      <div class="p-3 border bg-light"  className="text4">Grilled Beef with potatoes $20.00</div>
+      <img src={food5} className='food7'></img>
+    </div> 
+
+<div class="row g-2">
+    <div class="col-12">
+      <div class="p-3 border bg-light"  className="text5">Grilled Beef with potatoes $20.00</div>
+      <img src={food6} className='food2'></img>
+    </div>
+    <div class="container text-center ">
+    <div class="row g-2">
+    <div class="col-12">
+      <div class="p-3 border bg-light"  className="text6">Grilled Beef with potatoes $20.00</div>
+      <img src={food7} className='food3'></img>
+    </div>
+    <div class="row g-2">
+    <div class="col-12 ">
+      <div class="p-3 border bg-light"  className="text7">Grilled Beef with potatoes $20.00</div>
+      <img src={food8} className='food4'></img>
+      </div>
+      
+      
+    
+      </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
